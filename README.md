@@ -1,5 +1,5 @@
 # Demo-Git
 This is my git demo repository
 
-# Cheeks is an amazing Person
+# I Love Cheeks
 This is a very True statement
